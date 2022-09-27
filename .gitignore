@@ -10,3 +10,9 @@ analysis/*html
 analysis/*_cache
 analysis/site_libs
 data/
+output/01-preprocess
+output/02-merge
+output/03-broad
+output/04-subcluster_process
+output/05-processed_subclusters
+output/marker_lists/hgnc_reference_groups
