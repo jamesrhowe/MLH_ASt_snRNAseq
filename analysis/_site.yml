@@ -1,7 +1,7 @@
-name: "Mills, Lee, and Howe ASt snRNA-seq analysis"
+name: Mills, Lee, and Howe ASt snRNA-seq analysis
 output_dir: ../docs
 navbar:
-  title: "Mills, Lee, and Howe ASt snRNA-seq analysis"
+  title: Mills, Lee, and Howe ASt snRNA-seq analysis
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fab fa-github
+    text: Source code
+    href: https://github.com/jamesrhowe/MLH_ASt_snRNAseq
 output:
   workflowr::wflow_html:
     toc: yes
